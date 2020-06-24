@@ -1,7 +1,6 @@
 
-## MJM
-MJM M10000
-
+## Management System
+MJM M12  PERSISTENCE
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
